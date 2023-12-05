@@ -1,0 +1,22 @@
+.cart-list {
+  padding-left: 0px;
+}
+.remove-all-btn {
+  border: none;
+  background-color: transparent;
+  align-self: flex-end;
+  color: #0b69ff;
+  cursor: pointer;
+}
+.total-bill-card {
+  align-self: flex-end;
+}
+.checkout-btn {
+  border: none;
+  background-color: #0b69ff;
+  color: white;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 5px;
+  height: 28px;
+}
